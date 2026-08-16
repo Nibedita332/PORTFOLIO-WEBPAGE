@@ -110,6 +110,3 @@ Feel free to connect with me for opportunities, collaborations, or discussions r
 ---
 
 ⭐ If you like this project, feel free to give the repository a star!
-├── package-lock.json
-└── vite.config.js
-Email: YOUR_EMAIL_ADDRESS
